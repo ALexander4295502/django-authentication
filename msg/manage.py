@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-'''
-Hello
-'''
 import os
 import sys
 

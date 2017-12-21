@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: yuanzhengstl@gmail.com
+Date: Thu, 21 Dec 2017 02:21:07 -0000
+Message-ID: <20171221022107.44059.18224@MacBook-Pro>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/NA/4s6-404d163bf9a59a8a238f/
+
+Your username, in case you've forgotten: asdasd
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

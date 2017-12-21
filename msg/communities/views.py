@@ -51,9 +51,7 @@ class JoinCommunity(LoginRequiredMixin, generic.RedirectView):
             messages.warning(
                 self.request,
                 ("You were already a member of <b>{}</b>.  "
-                 "Don't be sneaky!").format(
-                    community.name
-                )
+                 "Don't be sneaky!").format(community.name)
             )
         else:
             messages.success(

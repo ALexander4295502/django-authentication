@@ -16,7 +16,7 @@ password: testpassword
 - [x] List all messages for a user
 - [x] List all messages for a community
 - [x] View a single message
-- [ ] Ability to sign up
+- [x] Ability to sign up
 - [ ] Ability to log in
 - [ ] Ability to log out
 - [x] Only able to post messages when logged in
